@@ -19,12 +19,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:jamhall/s3rver.git"
+    "url": "git@github.com:shdr-videos/s3_server.git"
   },
-  "bugs": {
-    "url": "https://github.com/jamhall/s3rver/issues"
-  },
-  "homepage": "https://github.com/jamhall/s3rver",
   "scripts": {
     "coverage": "nyc npm test",
     "test": "mocha",
