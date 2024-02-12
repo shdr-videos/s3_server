@@ -1,6 +1,6 @@
 {
   "name": "s3rver",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Fake S3 server for node",
   "keywords": [
     "fake",
@@ -80,7 +80,8 @@
     "p-map": "4.0.0",
     "prettier": "2.4.1",
     "request": "2.88.2",
-    "request-promise-native": "1.0.9"
+    "request-promise-native": "1.0.9",
+    "semver": "^7.6.0"
   },
   "lint-staged": {
     "*.js": "eslint --cache --fix",
